@@ -20,6 +20,8 @@ justify-content: space-around;
 .content2
 {
     border: 3px solid black;
+    display: flex;
+    flex-direction: column;
 }
 .ф23
 {
