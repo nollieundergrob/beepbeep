@@ -7,7 +7,6 @@ body
 display: flex;
 flex-direction: row;
 justify-content: space-around;
-border: 3px solid black;
 }
 .text234
 {
@@ -22,6 +21,7 @@ border: 3px solid black;
 {
     display: flex;
     flex-direction: column;
+    border: 3px solid black;
 }
 .ф23
 {
