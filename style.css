@@ -19,5 +19,6 @@ margin-right: 50px;
 }
 .content2
 {
-    border-left: 1px solid;
+    border-style: solid;
+    border-left: 1px;
 }
