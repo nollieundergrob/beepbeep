@@ -19,9 +19,7 @@ justify-content: space-around;
 }
 .content2
 {
-    border-style: solid;
-    border-left: 1px;
-    border-color: black;
+    border: 3px solid black;
 }
 .ф23
 {
