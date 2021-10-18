@@ -23,3 +23,6 @@ margin-right: 50px;
     border-left: 1px;
     border-color: black;
 }
+h1{
+    text-transform: uppercase;
+}
