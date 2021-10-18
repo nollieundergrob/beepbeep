@@ -28,3 +28,12 @@ justify-content: space-around;
     display: flex;
     flex-direction: column;
 }
+.asdasd
+{
+    transition:  0.2s ease-out;
+}
+.asdasd :hover
+{
+    color:green;
+    
+}
